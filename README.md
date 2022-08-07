@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/MohamedShathir/MohamedShathir/blob/main/Banner.png)
 <h1 align="center">💕مرحبا يا صديقي👋, I'm Mohamed Shathir</h1>
 <h3 align="center">I'm a Son, Brother, Student, and a Great Friend!💕</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/567523990538356835/">
+<img align="right" alt="Coding" width="400" src="TypingGif.gif">
 
 
 
