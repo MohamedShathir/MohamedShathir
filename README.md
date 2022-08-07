@@ -1,9 +1,9 @@
-[![MasterHead](https://github.com/MohamedShathir/MohamedShathir/blob/main/Banner.png)]
+![MasterHead](https://github.com/MohamedShathir/MohamedShathir/blob/main/Banner.png)
 <h1 align="center">💕مرحبا يا صديقي👋, I'm Mohamed Shathir</h1>
 <h3 align="center">I'm a Son, Brother, Student, and a Great Friend!💕</h3>
 <img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/567523990538356835/">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshathir&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshathir" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/shathir_2312" target="blank"><img src="https://img.shields.io/twitter/follow/shathir_2312?logo=twitter&style=for-the-badge" alt="shathir_2312" /></a> </p>
 
