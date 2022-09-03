@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shathir_2312" target="blank"><img src="https://img.shields.io/twitter/follow/shathir_2312?logo=twitter&style=for-the-badge" alt="shathir_2312" /></a> </p>
 
-- 🔭 I’m currently doing my Bachelor's Degree in **KPR Institute of Engineering & Technology.**
+- 🔭 I’m currently doing my Bachelor's Degree at **KPR Institute of Engineering & Technology.**
 
 - 🌱 I’m currently learning **Kali Linux, Web Developing, IoT & Embedded Systems..**
 
