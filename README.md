@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently pursuing my Bachelor's Degree at **KPR Institute of Engineering & Technology.**
 
-- 🌱 I’m currently learning **Kali Linux, Web Developing, IoT & Embedded Systems..**
+- 🌱 I’m currently learning **Networking, Kali Linux, IoT & Embedded Systems..**
 
 - 👯 I’m looking to collaborate with people interested in **Ethical Hacking.**
 
-- 💬 Ask me about **Python, C & I do know about latest technologies.**
+- 💬 Ask me about **Java, Python & C. I do know about the latest technologies.**
 
 - 📫 How to reach me **mshathir2312@gmail.com**
 
